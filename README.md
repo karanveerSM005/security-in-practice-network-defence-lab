@@ -4,12 +4,12 @@ An authorised university cyber security lab focused on vulnerability assessment,
 
 The lab used an isolated host only virtual network containing Kali Linux, a deliberately vulnerable OWASP/DVWA target and a separate Snort IDPS monitoring system.
 
+> **Authorised lab use only:** All testing was completed in a controlled university environment against intentionally vulnerable systems. No public, production or third party systems were targeted.
+
 ## Author
 
 Karanveer Singh Malhi
 [LinkedIn](https://www.linkedin.com/in/karanveer-singh-malhi-750793311/)
-
-> **Authorised lab use only:** All testing was completed in a controlled university environment against intentionally vulnerable systems. No public, production or third party systems were targeted.
 
 ## Project Overview
 
